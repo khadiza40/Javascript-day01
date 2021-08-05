@@ -1,5 +1,4 @@
 let CountryName  = "Bangladesh";
-
 console.log("Numeber of character "+CountryName.length);
 
 console.log(CountryName.charAt(3)); //3 num index er charecter  dekhbe
